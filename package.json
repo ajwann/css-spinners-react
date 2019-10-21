@@ -1,0 +1,31 @@
+{
+  "name": "css-spinners-react",
+  "version": "0.1.0",
+  "description": "React adaptation of John W. Long's css-spinners library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwann/css-spinners-react.git"
+  },
+  "keywords": [
+    "spinners",
+    "loaders",
+    "loading icons",
+    "loading indicators",
+    "loading-icons",
+    "loading-indicators",
+    "react loading icons",
+    "react loading indicators",
+    "react-loading-icons",
+    "react-loading-indicators"
+  ],
+  "author": "Adam Wanninger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajwann/css-spinners-react/issues"
+  },
+  "homepage": "https://github.com/ajwann/css-spinners-react#readme"
+}
