@@ -2,8 +2,10 @@
   "name": "css-spinners-react",
   "version": "0.1.0",
   "description": "React adaptation of John W. Long's css-spinners library",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
