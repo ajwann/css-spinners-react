@@ -2,8 +2,10 @@
   "name": "css-spinners-react",
   "version": "0.1.0",
   "description": "React adaptation of John W. Long's css-spinners library",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,5 +29,18 @@
   "bugs": {
     "url": "https://github.com/ajwann/css-spinners-react/issues"
   },
-  "homepage": "https://github.com/ajwann/css-spinners-react#readme"
+  "homepage": "https://github.com/ajwann/css-spinners-react#readme",
+  "dependencies": {
+    "react": "^16.10.2",
+    "webpack": "^4.41.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^3.3.9"
+  }
 }
