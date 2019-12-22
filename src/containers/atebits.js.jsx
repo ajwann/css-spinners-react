@@ -1,0 +1,11 @@
+import React from 'react';
+import './css/spinner/atebits.css';
+
+const Atebits = props => {
+  return(
+    <div className="atebits-loader">
+    </div>
+  )
+}
+
+export default Atebits;
