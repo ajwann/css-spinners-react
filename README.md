@@ -1,4 +1,6 @@
-This is a zero-dependency React adaptation of John W. Long's (jlong) [css-spinners](https://github.com/jlong/css-spinners) library.
+[![npm version](https://badge.fury.io/js/css-spinners-react.svg)](https://badge.fury.io/js/css-spinners-react)
+
+This is a zero-dependency React adaptation of John W. Long's (jlong) [css-spinners](https://github.com/jlong/css-spinners) library. It should work on any platform that supports css animations.
 
 # Usage
 
