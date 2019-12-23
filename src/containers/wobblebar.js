@@ -8,4 +8,4 @@ const Wobblebar = props => {
   )
 }
 
-export default Wobblebar;
+export { Wobblebar };

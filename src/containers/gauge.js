@@ -8,4 +8,4 @@ const Gauge = props => {
   )
 }
 
-export default Gauge;
+export { Gauge };

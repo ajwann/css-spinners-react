@@ -8,4 +8,4 @@ const Pong = props => {
   )
 }
 
-export default Pong;
+export { Pong };

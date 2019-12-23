@@ -8,4 +8,4 @@ const Flower = props => {
   )
 }
 
-export default Flower;
+export { Flower };

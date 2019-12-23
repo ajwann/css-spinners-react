@@ -8,4 +8,4 @@ const Dots = props => {
   )
 }
 
-export default Dots;
+export { Dots };

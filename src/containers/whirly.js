@@ -8,4 +8,4 @@ const Whirly = props => {
   )
 }
 
-export default Whirly;
+export { Whirly };
