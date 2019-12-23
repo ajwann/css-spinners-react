@@ -8,4 +8,4 @@ const Atebits = props => {
   )
 }
 
-export default Atebits;
+export { Atebits };

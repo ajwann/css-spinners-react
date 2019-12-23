@@ -8,4 +8,4 @@ const Plus = props => {
   )
 }
 
-export default Plus;
+export { Plus };

@@ -8,4 +8,4 @@ const HolePulse = props => {
   )
 }
 
-export default HolePulse;
+export { HolePulse };

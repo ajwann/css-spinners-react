@@ -8,4 +8,4 @@ const ThreeQuarters = props => {
   )
 }
 
-export default ThreeQuarters;
+export { ThreeQuarters };

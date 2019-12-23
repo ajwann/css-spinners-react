@@ -8,4 +8,4 @@ const Timer = props => {
   )
 }
 
-export default Timer;
+export { Timer };

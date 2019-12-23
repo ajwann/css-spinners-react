@@ -8,4 +8,4 @@ const Hexdots = props => {
   )
 }
 
-export default Hexdots;
+export { Hexdots };
