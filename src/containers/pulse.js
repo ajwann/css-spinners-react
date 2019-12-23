@@ -8,4 +8,4 @@ const Pulse = props => {
   )
 }
 
-export default Pulse;
+export { Pulse };

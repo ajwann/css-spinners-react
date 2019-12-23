@@ -8,4 +8,4 @@ const Heartbeat = props => {
   )
 }
 
-export default Heartbeat;
+export { Heartbeat };

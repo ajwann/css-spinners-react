@@ -8,4 +8,4 @@ const Circles = props => {
   )
 }
 
-export default Circles;
+export { Circles };

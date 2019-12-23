@@ -8,4 +8,4 @@ const SpinningPixels = props => {
   )
 }
 
-export default SpinningPixels;
+export { SpinningPixels };

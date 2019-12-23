@@ -8,4 +8,4 @@ const Echo = props => {
   )
 }
 
-export default Echo;
+export { Echo };

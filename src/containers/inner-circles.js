@@ -8,4 +8,4 @@ const InnerCircles = props => {
   )
 }
 
-export default InnerCircles;
+export { InnerCircles };

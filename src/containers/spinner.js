@@ -8,4 +8,4 @@ const Spinner = props => {
   )
 }
 
-export default Spinner;
+export { Spinner };
