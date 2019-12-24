@@ -3,8 +3,7 @@ import './css/spinner/refreshing.css';
 
 const Refreshing = props => {
   return(
-    <div className="refreshing-loader">
-    </div>
+    <div className="refreshing-loader" {...props} />
   )
 }
 

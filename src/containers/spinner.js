@@ -3,8 +3,7 @@ import './css/spinner/spinner.css';
 
 const Spinner = props => {
   return(
-    <div className="spinner-loader">
-    </div>
+    <div className="spinner-loader" {...props} />
   )
 }
 

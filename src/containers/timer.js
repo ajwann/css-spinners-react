@@ -3,8 +3,7 @@ import './css/spinner/timer.css';
 
 const Timer = props => {
   return(
-    <div className="timer-loader">
-    </div>
+    <div className="timer-loader" {...props} />
   )
 }
 

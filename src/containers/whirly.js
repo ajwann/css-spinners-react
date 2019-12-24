@@ -3,8 +3,7 @@ import './css/spinner/whirly.css';
 
 const Whirly = props => {
   return(
-    <div className="whirly-loader">
-    </div>
+    <div className="whirly-loader" {...props} />
   )
 }
 

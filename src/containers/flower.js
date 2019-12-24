@@ -3,8 +3,7 @@ import './css/spinner/flower.css';
 
 const Flower = props => {
   return(
-    <div className="flower-loader">
-    </div>
+    <div className="flower-loader" {...props} />
   )
 }
 

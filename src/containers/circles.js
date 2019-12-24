@@ -3,8 +3,7 @@ import './css/spinner/circles.css';
 
 const Circles = props => {
   return(
-    <div className="circles-loader">
-    </div>
+    <div className="circles-loader" {...props} />
   )
 }
 

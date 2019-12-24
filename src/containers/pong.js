@@ -3,8 +3,7 @@ import './css/spinner/pong.css';
 
 const Pong = props => {
   return(
-    <div className="pong-loader">
-    </div>
+    <div className="pong-loader" {...props} />
   )
 }
 

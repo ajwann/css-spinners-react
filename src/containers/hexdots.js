@@ -3,8 +3,7 @@ import './css/spinner/hexdots.css';
 
 const Hexdots = props => {
   return(
-    <div className="hexdots-loader">
-    </div>
+    <div className="hexdots-loader" {...props} />
   )
 }
 
