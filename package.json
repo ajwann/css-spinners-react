@@ -6,8 +6,8 @@
   "scripts": {
     "start": "webpack --watch",
     "build": "webpack --mode production",
-    "lint": "eslint --ext .js,.ts,.tsx .",
-    "lint:fix": "eslint --ext .js,.ts,.tsx . --fix"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "repository": {
     "type": "git",
