@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spinner components renders atebits 1`] = `
+<div
+  className="atebits-loader"
+/>
+`;
+
+exports[`spinner components renders ball 1`] = `
+<div
+  className="ball-loader"
+/>
+`;
+
+exports[`spinner components renders circles 1`] = `
+<div
+  className="circles-loader"
+/>
+`;
+
+exports[`spinner components renders dots 1`] = `
+<div
+  className="dots-loader"
+/>
+`;
+
+exports[`spinner components renders echo 1`] = `
+<div
+  className="echo-loader"
+/>
+`;
+
+exports[`spinner components renders flower 1`] = `
+<div
+  className="flower-loader"
+/>
+`;
+
+exports[`spinner components renders gauge 1`] = `
+<div
+  className="gauge-loader"
+/>
+`;
+
+exports[`spinner components renders heartbeat 1`] = `
+<div
+  className="heartbeat-loader"
+/>
+`;
+
+exports[`spinner components renders hexdots 1`] = `
+<div
+  className="hexdots-loader"
+/>
+`;
+
+exports[`spinner components renders hole-pulse 1`] = `
+<div
+  className="hole-pulse-loader"
+/>
+`;
+
+exports[`spinner components renders inner-circles 1`] = `
+<div
+  className="inner-circles-loader"
+/>
+`;
+
+exports[`spinner components renders plus 1`] = `
+<div
+  className="plus-loader"
+/>
+`;
+
+exports[`spinner components renders pong 1`] = `
+<div
+  className="pong-loader"
+/>
+`;
+
+exports[`spinner components renders pulse 1`] = `
+<div
+  className="pulse-loader"
+/>
+`;
+
+exports[`spinner components renders refreshing 1`] = `
+<div
+  className="refreshing-loader"
+/>
+`;
+
+exports[`spinner components renders spinner 1`] = `
+<div
+  className="spinner-loader"
+/>
+`;
+
+exports[`spinner components renders spinning-pixels 1`] = `
+<div
+  className="spinning-pixels-loader"
+/>
+`;
+
+exports[`spinner components renders three-quarters 1`] = `
+<div
+  className="three-quarters-loader"
+/>
+`;
+
+exports[`spinner components renders throbber 1`] = `
+<div
+  className="throbber-loader"
+/>
+`;
+
+exports[`spinner components renders timer 1`] = `
+<div
+  className="timer-loader"
+/>
+`;
+
+exports[`spinner components renders whirly 1`] = `
+<div
+  className="whirly-loader"
+/>
+`;
+
+exports[`spinner components renders wobblebar 1`] = `
+<div
+  className="wobblebar-loader"
+/>
+`;

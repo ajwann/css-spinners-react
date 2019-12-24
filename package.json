@@ -4,7 +4,7 @@
   "description": "React adaptation of John W. Long's css-spinners library",
   "main": "dist/index.js",
   "scripts": {
-    "test": "#noop for now",
+    "test": "jest --updateSnapshot",
     "start": "webpack --watch",
     "build": "webpack --mode production",
     "lint": "eslint .",
@@ -35,6 +35,12 @@
   "peerDependendies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|less)$": "identity-obj-proxy"
+    }
   },
   "dependencies": {},
   "devDependencies": {
