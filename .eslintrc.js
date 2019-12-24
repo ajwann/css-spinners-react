@@ -22,5 +22,12 @@ module.exports = {
     'react',
   ],
   rules: {
+    "import/no-extraneous-dependencies": "off" ,
+    "import/prefer-default-export": "off"
   },
+  "overrides": [
+    {
+      "files": ["./src/containers/*.jsx", "./src/containers/*.js"]
+    }
+  ]
 };
