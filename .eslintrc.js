@@ -27,7 +27,7 @@ module.exports = {
   },
   "overrides": [
     {
-      "files": ["./src/containers/*.jsx"]
+      "files": ["./src/containers/*.jsx", "./src/containers/*.js"]
     }
   ]
 };
