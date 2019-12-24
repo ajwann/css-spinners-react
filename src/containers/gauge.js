@@ -3,8 +3,7 @@ import './css/spinner/gauge.css';
 
 const Gauge = props => {
   return(
-    <div className="gauge-loader">
-    </div>
+    <div className="gauge-loader" {...props} />
   )
 }
 

@@ -3,8 +3,7 @@ import './css/spinner/echo.css';
 
 const Echo = props => {
   return(
-    <div className="echo-loader">
-    </div>
+    <div className="echo-loader" {...props} />
   )
 }
 

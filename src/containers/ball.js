@@ -3,8 +3,7 @@ import './css/spinner/ball.css';
 
 const Ball = props => {
   return(
-    <div className="ball-loader">
-    </div>
+    <div className="ball-loader" {...props} />
   )
 }
 

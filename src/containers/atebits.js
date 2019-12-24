@@ -3,8 +3,7 @@ import './css/spinner/atebits.css';
 
 const Atebits = props => {
   return(
-    <div className="atebits-loader">
-    </div>
+    <div className="atebits-loader" {...props} />
   )
 }
 

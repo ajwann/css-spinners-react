@@ -3,8 +3,7 @@ import './css/spinner/pulse.css';
 
 const Pulse = props => {
   return(
-    <div className="pulse-loader">
-    </div>
+    <div className="pulse-loader" {...props} />
   )
 }
 
