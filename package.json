@@ -5,7 +5,9 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "webpack --watch",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "lint": "eslint --ext .js,.ts,.tsx .",
+    "lint:fix": "eslint --ext .js,.ts,.tsx . --fix"
   },
   "repository": {
     "type": "git",
