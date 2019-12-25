@@ -1,6 +1,6 @@
 {
   "name": "css-spinners-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React adaptation of John W. Long's css-spinners library",
   "main": "dist/index.js",
   "scripts": {
