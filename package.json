@@ -4,7 +4,8 @@
   "description": "React adaptation of John W. Long's css-spinners library",
   "main": "dist/index.js",
   "scripts": {
-    "test": "jest --updateSnapshot",
+    "test": "jest",
+    "test:updateSnapsot": "jest --updateSnapshot",
     "start": "webpack --watch",
     "build": "webpack --mode production",
     "lint": "eslint .",
