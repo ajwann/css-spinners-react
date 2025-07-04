@@ -22,3 +22,4 @@ export * from './containers/throbber.js.jsx';
 export * from './containers/timer.js.jsx';
 export * from './containers/whirly.js.jsx';
 export * from './containers/wobblebar.js.jsx';
+export * from './containers/gradient-ring.js.jsx';
