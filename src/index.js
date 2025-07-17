@@ -1,5 +1,5 @@
 import './containers/css/spinners.css';
-
+export { default as Twist } from './containers/twist';
 export * from './containers/ball.js.jsx';
 export * from './containers/atebits.js.jsx';
 export * from './containers/circles.js.jsx';
